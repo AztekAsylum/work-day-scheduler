@@ -2,9 +2,7 @@
 // the code isn't run until the browser has finished rendering all the elements
 // in the html.
 $(function () {
-  var userEvent = JSON.parse(localStorage.getItem("userEvent")) || {};
-
-  // TODO: Add code to display the current date in the header of the page.
+  // CURRENT DATE IN HEADER OF PAGE
   function displayDate() {
     var today = dayjs();
     $("#currentDay").text(today.format("dddd, MMMM D, YYYY"));
