@@ -6,7 +6,7 @@ In this ticket. I worked on creating a simple calendar application that allows a
 
 ## Screenshot
 
-![screenshot]()
+![screenshot](./Screenshot%202023-09-01%20at%208.49.01%20PM.png)
 
 ## Deployed Link
 
