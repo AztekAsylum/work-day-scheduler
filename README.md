@@ -10,4 +10,4 @@ In this ticket. I worked on creating a simple calendar application that allows a
 
 ## Deployed Link
 
-[Click here to go to deployed app]()
+[Click here to go to deployed app](https://aztekasylum.github.io/work-day-scheduler/)
